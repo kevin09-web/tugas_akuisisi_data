@@ -1,0 +1,23 @@
+{
+    "nama_berkas": "hotel_bali.csv",
+    "jumlah_data": 6122,
+    "jumlah_kolom": 6,
+    "nama_kolom": [
+        "osm_type",
+        "osm_id",
+        "name",
+        "tourism",
+        "latitude",
+        "longitude"
+    ],
+    "ukuran_bytes": 381371,
+    "md5": "335360e9fd879491c3bc6eec1d04cb19",
+    "sumber_data": "OpenStreetMap",
+    "metode_akuisisi": "Overpass API",
+    "lisensi": "Open Database License (ODbL)",
+    "waktu_akuisisi": "17/11/2026 12:15",
+    "pengambil": {
+        "nama": "I Nyoman Cahyanta Kusumadinata",
+        "nim": "2501010166"
+    }
+}

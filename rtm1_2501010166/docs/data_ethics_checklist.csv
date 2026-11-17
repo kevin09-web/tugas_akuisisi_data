@@ -1,0 +1,9 @@
+﻿Aspek,Pemeriksaan,Status,Keterangan
+Sumber data,Menggunakan sumber data terbuka,Ya,OpenStreetMap
+Lisensi,Memperhatikan lisensi data,Ya,Open Database License (ODbL)
+Privasi,Tidak mengambil data pribadi,Ya,Data berupa informasi lokasi penginapan
+Izin akses,Menggunakan API resmi,Ya,Overpass API
+Keamanan,Tidak mengambil informasi sensitif,Ya,Tidak ada data sensitif
+Atribusi,Mencantumkan sumber data,Ya,OpenStreetMap
+Penyimpanan,Menyimpan data secara bertanggung jawab,Ya,Disimpan dalam folder proyek
+Penggunaan,Menggunakan data untuk keperluan akademik,Ya,Tugas perkuliahan
